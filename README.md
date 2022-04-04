@@ -19,5 +19,5 @@ Estou sempre em busca de novos aprendizados e evolução.<br>
   <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
 <div>
-  <img align="center" alt="OctoCat" width="544" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhai2xXXHRpByD_HJCBT9Q0H0MUKYhdamQ1em3QCfrs_w5SJLeEAvL7ZHZ6NPymgxRWQCVnwldDeqrRrZ8SBZSmIY4qOUJvuql5wbpSC7rUtZp_BV3ofuz5ayQNoKjyMYj9mUfrXl5vCVUFfUldxKYofEgYfWBG-kv-IlQKTKE4UcY0OYgf5_ERU5ZrBA/w945-h600-p-k-no-nu/octocat%20copy.png" />
+  <img align="center" alt="OctoCat" width="544" height="720" src="https://raw.githubusercontent.com/robsonsantos73/login-simples-php/master/images/octocat_robsonsantos73.png" />
 </div>
