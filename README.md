@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Robson Santos 🖐️
 Curioso desde criança de como funcionava os computadores.<br>
 Tempo depois já escrevia os meus primeiros códigos em C.<br>
-Mais adiante, toda essa curiosidade, me fez realizar engenharia reversa nos softwares que eu gostava, para fins de aprendizado de como desenvolver meus próprios softwares mais seguros.<br>
+Mais adiante, toda essa curiosidade, me fez realizar engenharia reversa nos softwares que eu gostava, para fins de aprendizado sobre como desenvolver meus próprios softwares mais seguros.<br>
 
 Hoje em dia ocupo o cargo de Coordenador em um órgão público.<br>
 Estou sempre em busca de novos aprendizados e evolução.<br>
